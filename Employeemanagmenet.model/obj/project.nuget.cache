@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDTvg2TA4+T2TQ10O5T4CJGRNEzUgk9eo+LzeNhJF/ch8R7dQRYKQ6cpQ4nwIjSpeSdsgV1lqE82dVPQXKcj7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imen\\Downloads\\EmployeeManagement-main\\EmployeeManagement-main\\EmployeeManagement\\Employeemanagmenet.model\\Employeemanagmenet.model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\imen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\imen\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
